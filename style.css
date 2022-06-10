@@ -1,0 +1,111 @@
+.searchInput {
+    width: 500px;
+    height: 30px;
+    margin: 10px 5px;
+}
+
+.searchButton {
+    width: 50px;
+    height: 36px;
+    margin: 10px 0px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.spinnerOff {
+    display: none;
+}
+
+.spinnerOn {
+    width: 65%;
+    height: 65%;
+    margin: 0px 0px 0px 200px;
+}
+
+ul {
+    margin: 0px 100px;
+    justify-content: center;
+    list-style: none;
+    overflow: auto;
+    height: 400px;
+    width: 1000px;
+}
+
+ul li {
+    margin: 0px 10px 20px 0px;
+    background: dimgray;
+    height: 380px;
+    width: 980px;
+    justify-content: center;
+}
+
+.leftimg {
+    width: 14%;
+    height: 14%;
+    float: left;
+    margin: 0px 7px 7px 10px;
+}
+
+ul li b {
+    font-size: 20px;
+    margin: 10px 20px;
+}
+
+ul li p {
+    font-size: 20px;
+    margin: 10px 20px 0px 10px;
+}
+
+select {
+    height: 25px;
+    margin: 15px 5px 0px 10px;
+}
+
+.buttonNavigation {
+    height: 20px;
+    width: 20px;
+    font-size: 10px;
+}
+
+.divNavigation {
+    justify-content: space-between;
+    height: 60px;
+    width: 20px;
+    margin: 5px 0px;
+}
+
+.divContainer {
+    margin: 20px 10px;
+    width: fit-content;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.divAnime {
+    width: 300px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    border-color: darkslategrey;
+    background: darkcyan;
+}
+
+.cover {
+    margin: 10px 0px 0px 30px;
+}
+
+.tittle {
+    font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: center;
+}
